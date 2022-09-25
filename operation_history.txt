@@ -1,0 +1,10 @@
+Welcome to the basic calculator!
+Enter an arithmetic operation or type 'quit' to quit:
+> dassd
+Operation check failed!
+Enter an arithmetic operation or type 'quit' to quit:
+> 12 + 32
+44
+Enter an arithmetic operation or type 'quit' to quit:
+> quit
+Goodbye!
